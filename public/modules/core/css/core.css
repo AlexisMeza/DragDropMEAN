@@ -1,0 +1,30 @@
+body {
+	background-color: #A69580;
+}
+
+.jumbotron > .row > div {
+	background-color: #0442BF;
+	border-radius: 20px;
+	margin-top: 5%;
+	color: white;
+}
+
+#drop_zone {
+	background-color: #F2ECE4;
+	height: 200px;
+	margin-bottom: 5%;
+	color: black;
+}
+
+.undecorated-link:hover {
+	text-decoration: none;
+}
+[ng\:cloak], [ng-cloak], [data-ng-cloak], [x-ng-cloak], .ng-cloak, .x-ng-cloak {
+	display: none !important;
+}
+.ng-invalid.ng-dirty {
+	border-color: #FA787E;
+}
+.ng-valid.ng-dirty {
+	border-color: #78FA89;
+}
